@@ -8,7 +8,7 @@ I enjoy learning how technology works from the inside: from writing code and bui
 
 
 ## 🧠 About me
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 
 - 🎓 Systems Engineer specialized in Data Science
 - 🔐 Interested in Cybersecurity, ethical hacking and secure systems
@@ -16,6 +16,8 @@ I enjoy learning how technology works from the inside: from writing code and bui
 - 🐧 Linux user, focused Bash skills
 - 🥊 MMA practitioner outside of tech and Fitness enthusiast.
 - 🚀 Always improving one commit at a time
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🛠️ Technologies & Tools
