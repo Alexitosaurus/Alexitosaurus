@@ -12,7 +12,7 @@ I enjoy learning how technology works from the inside: from writing code and bui
 - 🎓 Systems Engineer specialized in Data Science
 - 🔐 Interested in Cybersecurity, ethical hacking and secure systems
 - 💻 Learning and building projects with HTML, CSS and JavaScript
-- 🐧 Linux user, focused on improving my terminal and Bash skills
+- 🐧 Linux user, focused Bash skills
 - 🥊 MMA practitioner outside of tech and Fitness enthusiast.
 - 🚀 Always improving one commit at a time
 
