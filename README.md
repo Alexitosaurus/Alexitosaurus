@@ -1,4 +1,4 @@
-## Hi there I'm Alex 👋
+## Hi there I'm Alex 👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 ### Systems Engineer | Data Science | Cybersecurity Enthusiast
 
