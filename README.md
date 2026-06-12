@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### Systems Engineer | Data Science | Cybersecurity Enthusiast <img height="30" align="up" src="https://cdn3.emoji.gg/emojis/35277-greenhacker.png">
+### Systems Engineer | Data Science | Cybersecurity Enthusiast <img height="30" align="up" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png">
 
 I'm a Systems Engineering graduate with a specialization in Data Science, currently building my path in web development, Linux environments, and cybersecurity.
 
