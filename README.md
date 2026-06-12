@@ -1,4 +1,4 @@
-## Hi there I'm Alex 👋 <img height="40" src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png width="64px" height="64px">
+## Hi there I'm Alex 👋 <img height="40" src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png">
 
 <a href="https://emoji.gg/emoji/660959-creeperplushie"><img src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png width="64px" height="64px" alt="CreeperPlushie"></a>
 
