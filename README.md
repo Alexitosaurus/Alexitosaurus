@@ -1,5 +1,7 @@
 ## Hi there I'm Alex 👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
+<a href="https://emoji.gg/emoji/660959-creeperplushie"><img src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png" width="64px" height="64px" alt="CreeperPlushie"></a>
+
 ### Systems Engineer | Data Science | Cybersecurity Enthusiast
 
 I'm a Systems Engineering graduate with a specialization in Data Science, currently building my path in web development, Linux environments, and cybersecurity.
