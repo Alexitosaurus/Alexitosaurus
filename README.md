@@ -8,6 +8,7 @@ I enjoy learning how technology works from the inside: from writing code and bui
 
 
 ## 🧠 About me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 - 🎓 Systems Engineer specialized in Data Science
 - 🔐 Interested in Cybersecurity, ethical hacking and secure systems
