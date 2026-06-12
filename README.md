@@ -1,7 +1,7 @@
-<h1>
+<h2>
   Hi there I'm Alex 👋
-  <img src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png" width="45" height="45" align="center" alt="CreeperPlushie">
-</h1>
+  <img src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png" width="36" height="36" align="center" alt="CreeperPlushie">
+</h2>
 
 
 ### Systems Engineer | Data Science | Cybersecurity Enthusiast
