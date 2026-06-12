@@ -4,14 +4,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### Systems Engineer | Data Science | Cybersecurity Enthusiast
+
+### Systems Engineer | Data Science | Cybersecurity Enthusiast <img height="30" align="up" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
 
 I'm a Systems Engineering graduate with a specialization in Data Science, currently building my path in web development, Linux environments, and cybersecurity.
 
 I enjoy learning how technology works from the inside: from writing code and building interfaces to understanding systems, automation, security, and data.
 
 
-## 🧠 About me
+## 🧠 About me <img height="30" align="up" src="https://cdn3.emoji.gg/emojis/638431-blue-shark-plushie.png">
 
 
 - 🎓 Systems Engineer specialized in Data Science
@@ -24,7 +25,7 @@ I enjoy learning how technology works from the inside: from writing code and bui
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🛠️ Technologies & Tools that I know
+## 🛠️ Technologies & Tools that I know  <img height="30" align="up" src="https://cdn3.emoji.gg/emojis/594111-bubbletongue.gif">
 
 <p align="center">
   <a href="https://skillicons.dev">
