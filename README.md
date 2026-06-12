@@ -1,5 +1,14 @@
 ## Hi there I'm Alex 👋
 
+**### Systems Engineer | Data Science | Cybersecurity Enthusiast
+
+I'm a Systems Engineering graduate with a specialization in Data Science, currently building my path in web development, Linux environments, and cybersecurity.
+
+I enjoy learning how technology works from the inside: from writing code and building interfaces to understanding systems, automation, security, and data.
+
+
+
+
 <!--
 **### Systems Engineer | Data Science | Cybersecurity Enthusiast
 
