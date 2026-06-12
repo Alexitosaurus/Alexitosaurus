@@ -1,4 +1,4 @@
-<h3> Hi there I'm Alex </h3> <img height="40" src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png" align="up">
+<h3> Hi there I'm Alex  <img height="40" src="https://cdn3.emoji.gg/emojis/660959-creeperplushie.png" align="up"> </h3>
 
 ### Systems Engineer | Data Science | Cybersecurity Enthusiast
 
